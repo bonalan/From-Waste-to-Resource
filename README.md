@@ -32,4 +32,4 @@ For the AR-guided assembly portion, **Unity** (preferably version 6.0+), is reco
 1. **Clone the Repository**  
    Clone this repository to access all files locally.
    ```bash
-   git clone https://github.com/your-username/workshop-repo.git
+   git clone https://github.com/your-username/waste-to-resource-workshop.git
