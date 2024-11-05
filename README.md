@@ -13,6 +13,9 @@ Welcome to the repository for the **From Waste to Resource** workshop. This work
 - **/OBJ_Files**  
   Includes object (.obj) files of scanned waste pieces for use in design configurations and assembly planning. These files can be imported into Rhino or Unity for further exploration and development.
 
+- **/Python_Files**  
+  This folder contains Python scripts used in the workflow.
+
 ## Prerequisites
 
 To work with the files in this repository, please ensure the following software and plugins are installed:
@@ -29,4 +32,4 @@ For the AR-guided assembly portion, **Unity** (preferably version 6.0+), is reco
 1. **Clone the Repository**  
    Clone this repository to access all files locally.
    ```bash
-   git clone https://github.com/your-username/workshop-repo.git
+   git clone https://github.com/your-username/waste-to-resource-workshop.git
